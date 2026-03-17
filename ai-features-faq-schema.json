@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Welche Vorteile bieten KI-basierte Berechnungen gegenüber manueller Verarbeitung?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "KI-gestützte Funktionen bieten mehrere zentrale Vorteile: Zeitersparnis durch automatisierte Analysen, die manuellen Aufwand reduzieren und Berechnungen erheblich beschleunigen. Skalierbarkeit, sodass auch große oder komplexe Datensätze konsistent und schnell verarbeitet werden können. Geringeres Fehlerrisiko durch standardisierte Prozesse, die Eingabe- und Übertragungsfehler minimieren. Transparenz, da Ergebnisse mit Confidence Scores versehen werden und alle Schätzungen oder Unsicherheiten klar gekennzeichnet sind."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Können die KI-Ergebnisse überprüft oder angepasst werden?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja. Alle von der KI generierten Ergebnisse werden transparent dargestellt. Zusätzlich wird ein Confidence Score angezeigt, der die Sicherheit der Erkennung oder Zuordnung bewertet, sowie eine kurze Begründung ('Reasoning'). Sie können die Ergebnisse jederzeit prüfen, validieren und manuell anpassen – die Kontrolle bleibt stets bei Ihnen."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie geht die KI mit fehlenden oder unvollständigen Daten um?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Unsere KI kann sowohl mit vollständigen als auch mit unvollständigen Informationen arbeiten. Wenn bestimmte Daten fehlen, generiert die KI auf Basis der vorhandenen Informationen Schätzwerte. Jede Schätzung wird mit einem Confidence Score versehen, der die Zuverlässigkeit der Annahme angibt, sowie einer kurzen Begründung. Sobald Sie Primärdaten zu Materialien, Mengen oder Emissionswerten bereitstellen, haben diese immer Vorrang. Automatisch generierte Schätzungen können jederzeit durch Ihre eigenen, präziseren Eingaben ersetzt werden."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Werden die Ergebnisse überprüft oder kann die KI Fehler machen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Wir entwickeln unsere KI kontinuierlich weiter und stellen sicher, dass sie höchsten Qualitätsstandards sowie etablierten Berechnungsnormen entspricht. Wie bei jedem automatisierten Prozess können jedoch Fehler auftreten. Wir empfehlen daher, die Ergebnisse zu überprüfen und uns Feedback zu geben, falls Unstimmigkeiten auftreten oder Verbesserungsvorschläge bestehen."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Werden meine Daten zum Training der KI verwendet?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Nein. Ihre Daten werden nicht zum Training von KI-Modellen verwendet. Sie dienen ausschließlich der von Ihnen angeforderten Berechnung und werden nach deren Abschluss nicht weiterverarbeitet."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie sicher sind meine Daten bei der Nutzung der KI?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Die Verarbeitung erfolgt ausschließlich auf unseren eigenen Servern in Deutschland. Alle Daten werden End-to-End verschlüsselt übertragen und gespeichert, sind vollständig DSGVO-konform und werden nicht an Dritte weitergegeben."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Werden meine Daten automatisch an die KI gesendet?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Nein. Daten werden nur dann an die KI übermittelt, wenn Sie aktiv eine der folgenden KI-gestützten Funktionen ausführen: 1. Start einer Scope 3.1 / 3.2-Emissionsberechnung, 2. Erstellung einer PCF-Berechnung. Ohne Ihr ausdrückliches Handeln findet keine Datenübertragung oder automatische Verarbeitung statt."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Warum reicht ChatGPT oder Copilot nicht aus, um einen PCF zu berechnen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generative KI-Tools wie ChatGPT oder Copilot können Informationen recherchieren, Texte strukturieren oder überschlägige Annahmen treffen. Für eine belastbare Product-Carbon-Footprint-Berechnung reichen sie jedoch nicht aus. Ein prüffähiger PCF erfordert: klar definierte Systemgrenzen gemäß ISO 14067 und ISO 14040/44, konsistente Anwendung von Emissionsfaktoren aus integrierten, versionierten Datenbanken, reproduzierbare Berechnungslogik statt einmaliger Textausgabe, transparente Dokumentation aller Annahmen sowie Vergleichbarkeit über Produkte, Zeiträume und Standorte hinweg. Generative KI arbeitet probabilistisch. Sie erzeugt Antworten auf Basis von Wahrscheinlichkeiten – nicht auf Basis eines strukturierten, regelbasierten Bilanzierungssystems. Global Changer kombiniert KI-gestützte Automatisierung mit festen methodischen Standards, integrierten Emissionsfaktoren, regelbasierter Logik und nachvollziehbarer Struktur. So entstehen skalierbare, auditfähige PCFs – nicht nur textbasierte Annäherungen."
+    }
+  }]
+}
