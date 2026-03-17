@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is a Product Carbon Footprint (PCF)?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A Product Carbon Footprint (PCF) calculates the greenhouse gas emissions of an individual product along defined system boundaries, such as from raw material extraction to the factory gate (Cradle-to-Gate). Methodologically, the PCF is based on standards such as ISO 14067 and the LCA fundamentals ISO 14040/44. It makes emission drivers transparent and creates a solid foundation for product decisions, customer requirements, and reporting."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How does Global Changer help with the PCF calculation?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Global Changer combines structured PCF methodology with AI-driven automation. The module analyzes product information – such as a URL, product description, or Bill of Materials (BOM) – and automatically identifies relevant components, processes, and materials. Our AI assigns suitable emission factors from integrated databases and fills in missing information in a traceable manner. It does not operate as a black box: Assignments are presented transparently, rated with confidence scores, and can be checked or replaced with primary data at any time. The calculation is done along clearly defined system boundaries according to ISO 14067 and ISO 14040/44. Company-specific rules – such as for electricity accounting or material prioritization – can be systemically stored and applied consistently. This results in scalable, reproducible, and verifiable PCFs – even for large product portfolios."
+    }
+  }, {
+    "@type": "Question",
+    "name": "What data does Global Changer require for a PCF?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "With Global Changer, you can work with data at varying levels of detail: from a quick start to in-depth, primary data-based calculations. For an initial PCF calculation, basic information such as a product URL or a short product description is sufficient. Based on this, our AI analyzes the available data, identifies relevant components, and fills in missing information with well-founded assumptions. If you provide a Bill of Materials (BOM), you can specify material quantities, processes, or transports directly. Depending on the level of detail, the AI automatically fills in missing process or transport data or uses your specific inputs. The calculation is always done along clearly defined system boundaries according to ISO 14067 and ISO 14040/44. You can start with minimal data and gradually increase the data depth without methodological compromises."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How quickly can PCFs be created with Global Changer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Thanks to AI-driven automation, initial PCF results can be generated within 30-60 seconds. The methodological structure remains intact: system boundaries, emission factors, and calculation logic are consistently applied, especially when quickly scaling across large portfolios."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How transparent is the AI-supported PCF calculation by Global Changer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI assists in identifying materials, processes, assigning suitable emission factors and assumptions regarding transport, but it does not operate as a black box. All AI-generated information is marked as such, and emission factor assignments are traceable and provided with confidence scores. This allows for the information to be adjusted piece by piece or supplemented with primary data, fully in line with the requirements of ISO 14067 for transparency and traceability."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Is the PCF module from Global Changer scalable for large product portfolios?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Global Changer is designed to automate the calculation of PCFs for thousands of products. A single PCF can usually be created within 30 to 60 seconds. This is ideal if you have many products with a similar structure and different variants. Companies can start with a few pilot products and scale flexibly to their entire portfolio. Already today, customers are calculating over 90,000 PCFs with Global Changer. The methodology and the PCF module of Global Changer are currently being reviewed and certified by an independent certification company."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Why is ChatGPT or Copilot not enough to calculate a PCF?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "AI tools like ChatGPT or Copilot can research information, structure texts, or make rough assumptions. However, they are not sufficient for a reliable Product Carbon Footprint calculation. A verifiable PCF requires clearly defined system boundaries according to ISO 14067 and ISO 14040/44, consistent application of emission factors from integrated, versioned databases, reproducible calculation logic instead of one-time text output, transparent documentation of all assumptions, and comparability across products, time periods, and locations. AI tools like ChatGPT and Copilot generate answers based on probabilities rather than a structured, rule-based accounting system. Global Changer combines AI-driven automation with fixed methodological standards, integrated emission factors, rule-based logic, and traceable structure. This creates scalable, audit-capable PCFs and not just text-based approximations."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Is a product carbon footprint a one-time calculation?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. Product Carbon Footprints evolve with the quality of the data. Many companies start with initial calculations based on emissions databases and gradually refine their PCFs with primary data from supply chains, production, or logistics. Global Changer supports this iterative approach. You can quickly start with initial PCFs and update them later with more accurate data."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Which ISO standards are considered in the PCF calculation?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Product carbon footprints are based on Life Cycle Assessment (LCA). Global Changer is oriented toward established standards such as ISO 14067 as well as ISO 14040/44. These standards define, among other things, system boundaries, functional units, and methodological requirements for emissions factors. This results in consistent and traceable PCF calculations. The methodology and the PCF module of Global Changer are currently being reviewed and certified by an independent certification company."
+    }
+  }]
+}
