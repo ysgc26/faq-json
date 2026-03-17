@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What distinguishes Global Changer from other solution providers?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Global Changer connects precise Scope-3 analyses with scalable PCF calculation in an AI-driven solution. Instead of complex large projects or isolated tools, companies receive a structured, audit-proof emissions balance with clear reduction logic. Our strength lies in the combination of automation, subject matter expertise, and practical implementation – specifically for medium-sized and large organizations."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I connect my data with other internal systems?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Global Changer is open interface and can be seamlessly integrated into your existing systems. We offer out-of-the-box connections for common tools and provide custom interfaces when needed. This way, you can integrate existing data sources and efficiently process results – without any media breaks or duplicate data maintenance."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Are my data safe with Global Changer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Data security is our top priority. Global Changer is ISO 27001 certified, GDPR compliant, and hosts all data exclusively in Germany. Your data stays within the EU and is not used for external training purposes or shared with third parties."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How does Global Changer use Artificial Intelligence (AI)?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Global Changer specifically uses AI for the structured calculation of Scope 3.1 emissions (purchased goods and services) as well as for the automated creation of Product Carbon Footprints (PCF). The AI analyzes product data (e.g., URLs, bill of materials, or material specifications), identifies relevant components, and assigns suitable emission factors from integrated databases. It operates based on rules and is transparent, not as a black box. All results remain verifiable, adjustable, and methodologically consistent. Our AI is operated in compliance with data protection regulations and is not used for external training purposes."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Can I manage my Science-Based Targets (SBTi) through your software?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Global Changer enables the structured derivation and tracking of SBTi-compliant target paths. You can assign reduction measures to individual scopes or sub-scopes, track progress annually, and simulate scenarios. Thus, a target path becomes a manageable roadmap."
+    }
+  }, {
+    "@type": "Question",
+    "name": "How complicated is the introduction of Global Changer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The introduction is structured and takes place in clearly defined phases together with our Customer Success Team. Companies can start with a single module or selected pilot areas and gradually expand usage. Thanks to standardized data structures and existing interfaces, no months-long IT megaproject is required."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Do you have experience working with auditors?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, we work closely with auditors and have continuously developed our solution based on their feedback. We have already successfully gone through audit processes with publicly listed companies and are familiar with the practical requirements for documentation, traceability, and methodology."
+    }
+  }]
+}
