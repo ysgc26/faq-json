@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Was unterscheidet Global Changer von anderen Lösungsanbietern?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Global Changer verbindet präzise Scope-3-Analysen mit skalierbarer PCF-Berechnung in einer KI-gestützten Lösung. Statt komplexer Großprojekte oder isolierter Tools erhalten Unternehmen eine strukturierte, prüffähige Emissionsbilanz mit klarer Reduktionslogik. Unsere Stärke liegt in der Kombination aus Automatisierung, fachlicher Tiefe und praxisnaher Umsetzung – speziell für mittelständische und große Organisationen."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Kann ich meine Daten mit anderen internen Systemen verbinden?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja. Global Changer ist schnittstellenoffen und lässt sich nahtlos in Ihre bestehenden Systeme integrieren. Wir bieten Out-of-the-Box-Anbindungen für gängige Tools und stellen bei Bedarf individuelle Schnittstellen bereit. So können Sie bestehende Datenquellen einbinden und Ergebnisse effizient weiterverarbeiten – ohne Medienbrüche oder doppelte Datenpflege."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Sind meine Daten sicher bei Global Changer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja. Datensicherheit hat für uns höchste Priorität. Global Changer ist ISO 27001-zertifiziert, GDPR-konform und hostet alle Daten ausschließlich in Deutschland. Ihre Daten bleiben innerhalb der EU und werden nicht für externe Trainingszwecke oder an Dritte weitergegeben."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie setzt Global Changer Künstliche Intelligenz (KI) ein?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Global Changer nutzt KI gezielt für die strukturierte Berechnung von Scope-3.1-Emissionen (eingekaufte Güter und Dienstleistungen) sowie für die automatisierte Erstellung von Product Carbon Footprints (PCF). Die KI analysiert Produktdaten (z. B. URLs, Stücklisten oder Materialangaben), identifiziert relevante Komponenten und ordnet passende Emissionsfaktoren aus integrierten Datenbanken zu. Dabei arbeitet sie regelbasiert und nachvollziehbar, nicht als Black Box. Alle Ergebnisse bleiben überprüfbar, anpassbar und methodisch konsistent. Unsere KI wird datenschutzkonform betrieben und nicht für externe Trainingszwecke genutzt."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Kann ich meine Science-Based Targets (SBTi) über Ihre Software steuern?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja. Global Changer ermöglicht die strukturierte Ableitung und Verfolgung SBTi-konformer Zielpfade. Sie können Reduktionsmaßnahmen einzelnen Scopes oder Subscopes zuordnen, Fortschritte jährlich tracken und Szenarien simulieren. So wird aus einem Zielpfad eine steuerbare Roadmap."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie aufwendig ist die Einführung von Global Changer?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Die Einführung erfolgt strukturiert und in klar definierten Phasen zusammen mit unserem Customer Success Team. Unternehmen können mit einem einzelnen Modul oder ausgewählten Pilotbereichen starten und die Nutzung schrittweise ausweiten. Dank standardisierter Datenstrukturen und bestehender Schnittstellen ist kein monatelanges IT-Großprojekt erforderlich."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Haben Sie Erfahrungen in der Zusammenarbeit mit Wirtschaftsprüfer:innen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ja, wir arbeiten eng mit Wirtschaftsprüfer:innen zusammen und haben unsere Lösung auf Basis ihres Feedbacks kontinuierlich weiterentwickelt. Mit börsennotierten Unternehmen sind wir bereits erfolgreich durch Prüfprozesse gegangen und kennen die Anforderungen an Dokumentation, Nachvollziehbarkeit und Methodik aus der Praxis."
+    }
+  }]
+}
