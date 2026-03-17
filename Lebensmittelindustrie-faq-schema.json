@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Wie unterstützt Global Changer Lebensmittelhersteller bei der Klimabilanz (Scope 1–3)?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In der Lebensmittelindustrie entstehen oft bis zu 90 % der Emissionen in Scope 3, vor allem durch Rohstoffe, Verpackung und Lieferketten. Global Changer bildet Scope 1–3 gemäß GHG Protocol strukturiert ab. Besonders in Scope 3 ermöglicht die Lösung die konsistente Erfassung dieser Emissionsquellen. Emissionsfaktoren werden systematisch zugeordnet und versioniert dokumentiert. Das Ergebnis ist eine prüffähige und reproduzierbare Klimabilanz, die Emissionen über Produkte, Warengruppen und Standorte hinweg nachvollziehbar abbildet."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie geht Global Changer mit komplexen Scope-3-Lieferketten in der Lebensmittelindustrie um?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Lebensmittelprodukte bestehen oft aus vielen Zutaten und Verpackungskomponenten mit unterschiedlichen Lieferanten. Global Changer strukturiert diese Materialien entlang der Scope-3-Kategorien und konsolidiert Emissionen automatisch über Produkte, Warengruppen und Standorte hinweg. Dadurch entfallen manuelle Excel-Roll-ups, die in vielen Unternehmen zu Fehlern und Inkonsistenzen führen. Gleichzeitig wird sichtbar, welche Rohstoffe oder Lieferketten den größten Einfluss auf den Footprint haben."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie bildet Global Changer FLAG-Emissionen und Agrarrohstoffe ab?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Landwirtschaftliche Rohstoffe stellen besondere Anforderungen an die Emissionsberechnung, etwa durch biogene Emissionen oder Landnutzungsänderungen. Global Changer integriert branchenspezifische Datenbanken wie AGRIBALYSE (zukünftig auch Agri-footprint) und ecoinvent. Dadurch lassen sich Agrarrohstoffe differenziert abbilden, statt auf generische Durchschnittswerte zurückzugreifen. Unternehmen erhalten so eine realistischere Darstellung ihrer FLAG-Emissionen."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie unterstützt Global Changer bei der PCF-Berechnung für Lebensmittelprodukte?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Product Carbon Footprints werden in der Lebensmittelindustrie häufig vom LEH angefragt. Global Changer strukturiert KI-gestützt Zutaten, Verpackung, Verarbeitung und Transport entlang definierter Systemgrenzen gemäß ISO 14067 und ISO 14040/44 und ordnet passende Emissionsfaktoren automatisch zu. So lassen sich PCFs für einzelne Produkte oder ganze Portfolios effizient erstellen, etwa für LEH-Anfragen oder das eigene Nachhaltigkeitsreporting. Die Methodik und das PCF-Modul von Global Changer werden derzeit durch ein unabhängiges Zertifizierungsunternehmen geprüft und zertifiziert."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Wie geht Global Changer mit fehlenden Lieferantendaten um?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In der Praxis liegen Primärdaten von Lieferanten oft nur teilweise oder gar nicht vor. Global Changer überbrückt diese Lücken durch die automatische Zuordnung von Emissionsfaktoren aus integrierten Datenbanken wie ecoinvent oder AGRIBALYSE. Alle KI-generierten Annahmen sind als solche gekennzeichnet und mit Confidence Scores versehen, sodass klar erkennbar ist, wo Primärdaten fehlen. Sobald Lieferantendaten verfügbar sind, lassen sie sich direkt einpflegen und ersetzen die bisherigen Annahmen. Unternehmen können mit wenigen Daten starten und die Datentiefe schrittweise erhöhen, ohne die methodische Struktur zu verändern."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Warum reicht ChatGPT oder Copilot nicht aus, um PCFs für die Lebensmittelindustrie zu erstellen?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generative KI-Tools wie ChatGPT oder Copilot können Informationen recherchieren, Texte strukturieren oder überschlägige Annahmen treffen. Für eine belastbare Product-Carbon-Footprint-Berechnung reichen sie jedoch nicht aus. Ein prüffähiger PCF erfordert klar definierte Systemgrenzen gemäß ISO 14067 und ISO 14040/44, die konsistente Anwendung von Emissionsfaktoren aus integrierten, versionierten Datenbanken, reproduzierbare Berechnungslogik statt einmaliger Textausgabe, transparente Dokumentation aller Annahmen sowie Vergleichbarkeit über Produkte, Zeiträume und Standorte hinweg. Generative KI arbeitet probabilistisch. Sie erzeugt Antworten auf Basis von Wahrscheinlichkeiten, nicht auf Basis eines strukturierten, regelbasierten Bilanzierungssystems. Es gibt keine fest implementierten Systemgrenzen, keine verbindliche Methodik und keine garantierte Reproduzierbarkeit derselben Berechnung. Global Changer kombiniert KI-gestützte Automatisierung mit festen methodischen Standards, integrierten Emissionsfaktoren aus Datenbanken wie ecoinvent oder AGRIBALYSE, regelbasierter Logik und nachvollziehbarer Struktur. So entstehen skalierbare, auditfähige PCFs und keine textbasierten Annäherungen."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Ist Global Changer für CSRD und externe Prüfungen geeignet?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Global Changer unterstützt die strukturierte Dokumentation von Emissionen gemäß GHG Protocol und erleichtert die Vorbereitung auf regulatorische Anforderungen wie die CSRD. Alle Berechnungen sind nachvollziehbar dokumentiert. Dadurch entsteht eine belastbare Grundlage für interne Analysen sowie externe Prüfungen durch Wirtschaftsprüfer oder Auditoren. Prüfer können bei Bedarf direkt in der Software auf Ergebnisse und Berechnungen zugreifen – mit definierten Leserechten, ohne in den Prozess eingreifen zu können. Die Methodik und das PCF-Modul von Global Changer werden derzeit durch ein unabhängiges Zertifizierungsunternehmen geprüft und zertifiziert."
+    }
+  }]
+}
