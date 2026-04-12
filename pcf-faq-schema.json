@@ -6,14 +6,14 @@
     "name": "Was ist ein Product Carbon Footprint (PCF)?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ein Product Carbon Footprint (PCF) berechnet die Treibhausgasemissionen eines einzelnen Produkts entlang definierter Systemgrenzen, etwa von der Rohstoffgewinnung bis zum Werkstor (Cradle-to-Gate). Methodisch basiert der PCF auf Standards wie ISO 14067 sowie den LCA-Grundlagen ISO 14040/44. Dieser macht Emissionstreiber transparent und schafft eine belastbare Grundlage für Produktentscheidungen, Kundenanforderungen und Reporting."
+      "text": "Ein Product Carbon Footprint (PCF) berechnet die Treibhausgasemissionen eines einzelnen Produkts entlang definierter Systemgrenzen, etwa von der Rohstoffgewinnung bis zum Werkstor (Cradle-to-Gate). Methodisch orientiert sich der PCF an Standards wie ISO 14067 sowie den LCA-Grundlagen ISO 14040/44. Dieser macht Emissionstreiber transparent und schafft eine belastbare Grundlage für Produktentscheidungen, Kundenanforderungen und Reporting."
     }
   }, {
     "@type": "Question",
-    "name": "Wie unterstützt Global Changer bei der PCF-Berechnung?",
+    "name": "Wie unterstützt Global Changer Unternehmen bei der PCF-Berechnung?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Global Changer kombiniert strukturierte PCF-Methodik mit KI-gestützter Automatisierung. Das Modul analysiert Produktinformationen – etwa eine URL, Produktbeschreibung oder Bill of Materials (BOM) – und identifiziert automatisch relevante Komponenten, Prozesse und Materialien. Unsere KI ordnet passende Emissionsfaktoren aus integrierten Datenbanken zu und ergänzt fehlende Angaben nachvollziehbar. Dabei arbeitet sie nicht als Black Box: Zuordnungen werden transparent dargestellt, mit Confidence Scores bewertet und können jederzeit überprüft oder durch Primärdaten ersetzt werden. Die Berechnung erfolgt entlang klar definierter Systemgrenzen gemäß ISO 14067 und ISO 14040/44. Unternehmensspezifische Regeln – etwa zur Stromanrechnung oder Materialpriorisierung – lassen sich systemseitig hinterlegen und werden konsistent angewendet. So entstehen skalierbare, reproduzierbare und prüffähige PCFs – auch für große Produktportfolios."
+      "text": "Global Changer kombiniert strukturierte PCF-Methodik mit KI-gestützter Automatisierung. Das Modul analysiert Produktinformationen (z. B. eine URL, Produktbeschreibung oder Bill of Materials (BOM)) und identifiziert automatisch relevante Komponenten, Prozesse und Materialien. Unsere KI ordnet passende Emissionsfaktoren aus integrierten Datenbanken zu und ergänzt fehlende Angaben nachvollziehbar. Dabei arbeitet sie nicht als Black Box: Zuordnungen werden transparent dargestellt, mit Confidence Scores bewertet und können jederzeit überprüft oder durch Primärdaten ersetzt werden. Die Berechnung erfolgt entlang klar definierter Systemgrenzen gemäß ISO 14067 und ISO 14040/44. Unternehmensspezifische Regeln (etwa zu Strommix oder Materialien) lassen sich systemseitig hinterlegen und werden konsistent angewendet. So entstehen skalierbare, reproduzierbare und prüffähige PCFs, insbesondere auch für große Portfolios mit über 10.000 Produkten."
     }
   }, {
     "@type": "Question",
@@ -27,28 +27,35 @@
     "name": "Wie schnell lassen sich PCFs mit Global Changer erstellen?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Dank KI-gestützter Automatisierung können erste PCF-Ergebnisse innerhalb von 30-60 Sekunden generiert werden. Die methodische Struktur bleibt dabei erhalten: Systemgrenzen, Emissionsfaktoren und Berechnungslogik werden konsistent angewendet, vor allem auch bei schneller Skalierung über große Portfolios."
+      "text": "Dank KI-gestützter Automatisierung können erste PCF-Ergebnisse innerhalb von 30-60 Sekunden generiert werden. Die methodische Struktur bleibt dabei erhalten: Systemgrenzen, Emissionsfaktoren und Berechnungslogik werden konsistent angewendet, vor allem auch bei schneller Skalierung über große Portfolios. Je mehr Primärdaten hinterlegt werden, desto belastbarer wird das Ergebnis."
     }
   }, {
     "@type": "Question",
     "name": "Wie transparent ist die KI-gestützte PCF-Berechnung von Global Changer?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Die KI unterstützt bei der Identifikation von Materialien, Prozesse, der Zuordnung geeigneter Emissionsfaktoren und Annahmen zum Transport, arbeitet jedoch nicht als Black Box. Alle KI-generierten Informationen sind als solche markiert und Emissionsfaktor-Zuordnungen sind nachvollziehbar sowie mit Confidence Scores versehen. Dies ermöglicht, die Informationen Stück für Stück anzupassen oder mit Primärdaten zu erweitern, ganz im Einklang mit den Anforderungen aus ISO 14067 an Transparenz und Nachvollziehbarkeit."
+      "text": "Die KI unterstützt bei der Identifikation von Materialien, Prozesse, der Zuordnung geeigneter Emissionsfaktoren und Annahmen zum Transport, arbeitet jedoch nicht als Black Box. Alle KI-generierten Informationen sind als solche markiert und Emissionsfaktor-Zuordnungen aus Datenbanken wie ecoinvent und AGRIBALYSE sind nachvollziehbar, mit Confidence Scores und Begründungen versehen. Dies ermöglicht, die Informationen Stück für Stück anzupassen oder mit Primärdaten zu erweitern, ganz im Einklang mit den Anforderungen aus ISO 14067 an Transparenz und Nachvollziehbarkeit."
     }
   }, {
     "@type": "Question",
     "name": "Ist das PCF-Modul von Global Changer skalierbar für große Produktportfolios?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Ja. Global Changer ist darauf ausgelegt, PCFs für Tausende Produkte automatisiert zu berechnen. Ein einzelner PCF kann in der Regel innerhalb von 30-60 Sekunden erstellt werden. Dies ist ideal, wenn Sie viele Produkte mit ähnlicher Struktur und unterschiedlichen Varianten haben. Unternehmen können zuerst mit wenigen Pilotprodukten starten und flexibel auf ihr gesamtes Portfolio skalieren. Bereits heute berechnen Kund:innen mit Global Changer über 90.000 PCFs. Die Methodik und das PCF-Modul von Global Changer werden derzeit durch ein unabhängiges Zertifizierungsunternehmen geprüft und zertifiziert."
+      "text": "Ja. Global Changer ist darauf ausgelegt, PCFs für Tausende Produkte automatisiert zu berechnen. Ein einzelner PCF kann in der Regel innerhalb von 30-60 Sekunden erstellt werden. Dies ist ideal, wenn Sie viele Produkte mit ähnlicher Struktur und unterschiedlichen Varianten haben. Unternehmen können zuerst mit wenigen Pilotprodukten starten und flexibel auf ihr gesamtes Portfolio skalieren. Bereits heute berechnen Kund:innen mit Global Changer über 90.000 PCFs."
+    }
+  }, {
+    "@type": "Question",
+    "name": "Muss ich mich bei KI-gestützten PCFs zwischen Geschwindigkeit und Datenqualität entscheiden?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Nein. Unsere KI beschleunigt die aufwändigsten manuellen Schritte, wie die Zuordnung passender Emissionsfaktoren aus anerkannten Datenbanken wie ecoinvent und AGRIBALYSE. Dabei arbeitet sie nicht als Black Box: Jede Zuordnung ist mit Quellenangabe, Confidence Score und Begründung versehen und kann jederzeit geprüft, mit anderen Emissionsfaktoren aus den integrierten Datenbanken oder durch Primärdaten ersetzt werden. Die Berechnung orientiert sich an ISO 14067 und ISO 14040/44 und jeder PCF ist somit belastbar. Je nach Datenlage erstellen Sie PCFs von der ersten internen Einschätzung bis zum belastbaren Ergebnis für Kundenanfragen und Ausschreibungen. Zukünftig wird auch eine externe Zertifizierung einzelner PCFs möglich sein."
     }
   }, {
     "@type": "Question",
     "name": "Warum reicht ChatGPT oder Copilot nicht aus, um einen PCF zu berechnen?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "KI-Tools wie ChatGPT oder Copilot können Informationen recherchieren, Texte strukturieren oder überschlägige Annahmen treffen. Für eine belastbare Product Carbon Footprint-Berechnung reichen sie jedoch nicht aus. Ein prüffähiger PCF erfordert: klar definierte Systemgrenzen gemäß ISO 14067 und ISO 14040/44, konsistente Anwendung von Emissionsfaktoren aus integrierten, versionierten Datenbanken, reproduzierbare Berechnungslogik statt einmaliger Textausgabe, transparente Dokumentation aller Annahmen sowie Vergleichbarkeit über Produkte, Zeiträume und Standorte hinweg. KI-Tools wie ChatGPT und Copilot erzeugen Antworten auf Basis von Wahrscheinlichkeiten und nicht auf Basis eines strukturierten, regelbasierten Bilanzierungssystems. Es gibt keine fest implementierten Systemgrenzen, keine verbindliche Methodik und keine garantierte Reproduzierbarkeit derselben Berechnung. Zudem lassen sich unternehmensspezifische Regeln nicht systematisch hinterlegen und automatisch anwenden. Global Changer kombiniert KI-gestützte Automatisierung mit festen methodischen Standards, integrierten Emissionsfaktoren, regelbasierter Logik und nachvollziehbarer Struktur. So entstehen skalierbare, auditfähige PCFs und nicht nur textbasierte Annäherungen."
+      "text": "Generative KI-Tools wie ChatGPT oder Copilot können Informationen recherchieren, Texte strukturieren oder überschlägige Annahmen treffen. Für eine belastbare Product-Carbon-Footprint-Berechnung reichen sie jedoch nicht aus. Ein prüffähiger PCF erfordert: klar definierte Systemgrenzen gemäß ISO 14067 und ISO 14040/44, konsistente Anwendung von Emissionsfaktoren aus integrierten, versionierten Datenbanken, reproduzierbare Berechnungslogik statt einmaliger Textausgabe, transparente Dokumentation aller Annahmen sowie Vergleichbarkeit über Produkte, Zeiträume und Standorte hinweg. Generative KI arbeitet probabilistisch. Sie erzeugt Antworten auf Basis von Wahrscheinlichkeiten und nicht auf Basis eines strukturierten, regelbasierten Bilanzierungssystems. Es gibt keine fest implementierten Systemgrenzen, keine verbindliche Methodik und keine garantierte Reproduzierbarkeit derselben Berechnung. Zudem lassen sich unternehmensspezifische Regeln, wie etwa zur Anrechnung bestimmter Stromarten oder zur Nutzung definierter Emissionsfaktoren für einzelne Materialien, nicht systematisch hinterlegen und automatisch anwenden. Global Changer kombiniert KI-gestützte Automatisierung mit festen methodischen Standards, integrierten Emissionsfaktoren, regelbasierter Logik und nachvollziehbarer Struktur. So entstehen skalierbare, auditfähige PCFs und nicht nur textbasierte Annäherungen."
     }
   }, {
     "@type": "Question",
@@ -63,13 +70,6 @@
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Nein. Product Carbon Footprints entwickeln sich mit der Datenqualität weiter. Viele Unternehmen starten mit ersten Berechnungen auf Basis von Emissionsdatenbanken und verfeinern ihre PCFs schrittweise mit Primärdaten aus Lieferketten, Produktion oder Logistik. Global Changer unterstützt diesen iterativen Ansatz. Sie können schnell mit ersten PCFs starten und diese später mit genaueren Daten aktualisieren."
-    }
-  }, {
-    "@type": "Question",
-    "name": "Welche ISO-Standards werden bei der PCF-Berechnung berücksichtigt?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Product Carbon Footprints basieren auf Life Cycle Assessment (LCA). Global Changer orientiert sich an etablierten Standards wie ISO 14067 sowie ISO 14040/44. Diese Standards definieren unter anderem Systemgrenzen, funktionale Einheiten und methodische Anforderungen an Emissionsfaktoren. Dadurch entstehen konsistente und nachvollziehbare PCF-Berechnungen. Die Methodik und das PCF-Modul von Global Changer werden derzeit durch ein unabhängiges Zertifizierungsunternehmen geprüft und zertifiziert."
     }
   }]
 }
