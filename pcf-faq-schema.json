@@ -71,5 +71,12 @@
       "@type": "Answer",
       "text": "Nein. Product Carbon Footprints entwickeln sich mit der Datenqualität weiter. Viele Unternehmen starten mit ersten Berechnungen auf Basis von Emissionsdatenbanken und verfeinern ihre PCFs schrittweise mit Primärdaten aus Lieferketten, Produktion oder Logistik. Global Changer unterstützt diesen iterativen Ansatz. Sie können schnell mit ersten PCFs starten und diese später mit genaueren Daten aktualisieren."
     }
+     }, {
+    "@type": "Question",
+    "name": "Welche ISO-Standards werden bei der PCF-Berechnung berücksichtigt?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Product Carbon Footprints basieren auf Life Cycle Assessment (LCA). Global Changer orientiert sich an etablierten Standards wie ISO 14067 sowie ISO 14040/44. Diese Standards definieren unter anderem Systemgrenzen, funktionale Einheiten und methodische Anforderungen an Emissionsfaktoren. Dadurch entstehen konsistente und nachvollziehbare PCF-Berechnungen. Die Methodik und das PCF-Modul von Global Changer werden derzeit durch ein unabhängiges Zertifizierungsunternehmen geprüft und zertifiziert."
+    }
   }]
 }
